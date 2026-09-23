@@ -1,0 +1,20 @@
+1. What is Programming?
+The process of preparing an instructional program for a device (such as a computer).
+
+2. What are Programming Languages?
+A programming language acts as a middle-man or translator, converting a program written by humans into machine code that a computer can execute.
+
+3. How Do Computers Perform Tasks?
+To perform any task, a computer needs two things:
+•	The language that computers understand
+•	A Programming Environment
+
+Programming Environment
+A programming environment combines hardware and software and allows a developer to build applications.
+•	Developers typically work in Integrated Development Environments (IDEs).
+•	IDEs connect users with all the features necessary to write and test their code correctly.
+•	Different IDEs offer different capabilities and advantages.
+•	Examples: Visual Studio, NetBeans, Eclipse, IntelliJ, etc.
+
+4. What is Python?
+Python is an interpreted, object-oriented, high-level programming language with dynamic semantics.
