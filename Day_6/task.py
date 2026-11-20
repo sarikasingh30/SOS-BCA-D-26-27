@@ -34,6 +34,15 @@
 i=1
 print("Hello")
 while i<10:
+    if i==3:
+        break
+    print(i)
+    i+=1
+print("Bye")
+
+i=1
+print("Hello")
+while i<10:
     i+=1
     if i==3:
         continue
